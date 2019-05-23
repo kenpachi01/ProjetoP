@@ -9,8 +9,8 @@
         <form action="conCadastro.php" method="POST">
             <br>
             <br>
-    
-        <table align="left" border="0">
+    <center>
+        <table align="center" border="0">
        
             <tr>
                 <br>
@@ -47,6 +47,7 @@
                 </td>
             </tr>
         </table>
+        </center>
         </form>
     </body>
 </html>
